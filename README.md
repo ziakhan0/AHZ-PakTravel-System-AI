@@ -1,5 +1,5 @@
 # PakTravel AI System
-### AL2002 — Artificial Intelligence | Spring 2026
+### AL2002 — Artificial Intelligence | Spring_2026
 **FAST NUCES — Chiniot-Faisalabad Campus**
 
 ---
