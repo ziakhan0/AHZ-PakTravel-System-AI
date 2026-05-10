@@ -3,6 +3,5 @@ pandas
 matplotlib
 scikit-learn
 networkx
-aima3
 tqdm
-
+aima3
